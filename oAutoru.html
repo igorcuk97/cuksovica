@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Sovica - Autor</title>
+		<link rel="icon" href="img/icon.png">
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="author" content="mailto:igorcuk.126.17@gmail.com"/>
+		<meta name="description" content="Autor sajta i brenda Sovica je student trenutno druge godine Visoke ICT skole na smeru Internet Tehnologije"/>
+        <meta name="keywords" content="sovica, sajt, it, telefon, tablet, računar, laptop, sat, slušalice, autor, igor, cuk, ict, 126/17"/>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    </head>
+    <body>
+        <div id="heder">
+            <div id="logoNav">
+                <a href="index.html" class="activeA">
+                    <img src="img/logo.png" alt="logo sajta"/>
+                </a>
+            </div>
+            <div id="meniNav">
+                <ul id="h1">
+                    <!--dinamicki ispisano u jsu - prikaziMeni()-->
+                </ul>
+            </div>
+            <div id="korpa">
+                <a href="#.html" onclick="korpaOpen()"><i class="fa fa-shopping-cart"></i></a>
+            </div>
+            <div class="cleaner"></div>
+        </div>
+        <div id="sadrzaj">
+            <div id="s1" class="tamno">
+                <div class="txt-wraper">
+                    <h2>Igor Ćuk</h2>
+                    <h3>Autor sajta "Sovica" za predmet Web Programiranje 2.</h3>
+                    <h3>Sajt je rađen kao parodija, tj. kopija na sajt kompanije Apple.</h3>
+                </div>
+                <div class="img-wraper">
+                    <img src="img/autor-cover-01.jpg" alt="Slika autora na sajtu"/>
+                </div>
+            </div>
+        <div id="futer">
+            <div id="f1">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2830.3832363289293!2d20.479786915442382!3d44.8137566790986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475a7abdf732676b%3A0x5a375c55b9fc193d!2sZdravka+%C4%8Celara+16%2C+Beograd+11060!5e0!3m2!1sen!2srs!4v1521760051152" width="100%" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
+            </div>
+            <div id="f2">
+                <div id="fSocial">
+                    <ul id="soc1">
+                    <!--dinamicki ispisano u jsu - prikaziSoc()-->
+                    </ul>
+                </div>
+                <div id="fCopy">
+                    <p>Copyright &copy; Sovica | Designed by <a href="oAutoru.html"> Igor Ćuk</a> | <a href="#.html">Dokumentacija</a></p>
+                </div>
+            </div>
+        </div>
+
+        <div id="korpaDesno" class="divDesnoKorpa">
+			<a href="javascript:void(0)" class="dugmeX" onclick="korpaClose()">&times;</a>
+            <img src="img/hLogoCrni.png" alt="Slika loga kompanije"/>
+            <div class="korpaSadrzaj">
+                <div class="praznaK">
+                    <p>Korpa je prazna! De bar stavi nešto u nju...</p>
+                </div>
+                <div class="cenaK">
+                    <h3>Ukupan iznos:</h3>
+                    <h3>0 rsd</h3>
+                </div>
+            </div>
+		</div>
+        
+    <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/autor.js"></script>
+    <script src="js/korpa.js"></script>
+    </body>
+</html>

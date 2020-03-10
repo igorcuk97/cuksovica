@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "divid" : "s3m1",
+        "naslov":"bOgdan naStolu",
+        "tekst1":"Ako te šef drži dugo na poslu,",
+        "tekst2":"bar neka kupi kvalitetan komp.",
+        "a":{
+            "alink":"> Saznaj više",
+            "ahref":"#s4"
+        },
+        "slika":{
+            "src":"img/macbook-cover-05.jpg",
+            "alt":"Slika bOgdan računara spreda, uspravno."
+        },
+        "klasa":"svetlo mini"
+    },
+    {
+        "id": 2,
+        "divid" : "s3m2",
+        "naslov":"bOgdan uPutu",
+        "tekst1":"Ako te šef često šalje na rad na terenu,",
+        "tekst2":"bar nek je lagan laptop.",
+        "a":{
+            "alink":"> Saznaj više",
+            "ahref":"#s4"
+        },
+        "slika":{
+            "src":"img/macbook-cover-04.jpg",
+            "alt":"Slika bOgdan laptopa, ptičiji pogled, odozgo."
+        },
+        "klasa":"svetlo mini"
+    },
+    {
+        "id": 3,
+        "divid" : "s3m3",
+        "naslov":"bOgdan naPreklop",
+        "tekst1":"Da možeš na pauzi da pikaš 2k19,",
+        "tekst2":"a na predavanju da kucaš kod.",
+        "a":{
+            "alink":"> Saznaj više",
+            "ahref":"#s4"
+        },
+        "slika":{
+            "src":"img/macbook-cover-06.jpg",
+            "alt":"Slika bOgdan laptopa, nakrivljenog, sa desne strane."
+        },
+        "klasa":"tamno mini"
+    },
+    {
+        "id": 4,
+        "divid" : "s3m4",
+        "naslov":"bOgdan fiXni",
+        "tekst1":"Kad si dizajner, a klijent zahtevan,",
+        "tekst2":"pa renderuješ po ceo dan.",
+        "a":{
+            "alink":"> Saznaj više",
+            "ahref":"#s4"
+        },
+        "slika":{
+            "src":"img/macbook-cover-07.jpg",
+            "alt":"Slika bOgdan računara, nakrivljenog, sa desne strane."
+        },
+        "klasa":"tamno mini"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "divid" : "s3m1",
+        "naslov":"iGor za gazdu",
+        "tekst1":"Ajd' što je najbolji, što ima sve,",
+        "tekst2":"nego ima mesta za dve kartice.",
+        "a":{
+            "alink":"> Saznaj više",
+            "ahref":"#s4"
+        },
+        "slika":{
+            "src":"img/iphone-cover-03.jpg",
+            "alt":"Slika iGora sa strane, nakrivljeno."
+        },
+        "klasa":"svetlo mini"
+    },
+    {
+        "id": 2,
+        "divid" : "s3m2",
+        "naslov":"iGor familijarni",
+        "tekst1":"Najbolji paket ako imaš ženu i dete,",
+        "tekst2":"ili dva deteta, ali jedno više voliš.",
+        "a":{
+            "alink":"> Saznaj više",
+            "ahref":"#s4"
+        },
+        "slika":{
+            "src":"img/iphone-cover-04.jpg",
+            "alt":"Slika iGora tri komada, dva okrenuta na ekran, jedan gleda ka gore."
+        },
+        "klasa":"sivo mini"
+    },
+    {
+        "id": 3,
+        "divid" : "s3m3",
+        "naslov":"domaći iGor",
+        "tekst1":"Uz njega ide ugrađen lokator kafana,",
+        "tekst2":"sortiranje vrši po izboru pića.",
+        "a":{
+            "alink":"> Saznaj više",
+            "ahref":"#s4"
+        },
+        "slika":{
+            "src":"img/iphone-cover-05.jpg",
+            "alt":"Slika iGora od napred i pozadi, beli telefon."
+        },
+        "klasa":"svetlo mini"
+    },
+    {
+        "id": 4,
+        "divid" : "s3m4",
+        "naslov":"iGor za fotkanje",
+        "tekst1":"Kad hoćeš da baciš dobar selfi",
+        "tekst2":"pa da na instači izgrmi rič!",
+        "a":{
+            "alink":"> Saznaj više",
+            "ahref":"#s4"
+        },
+        "slika":{
+            "src":"img/iphone-cover-02.jpg",
+            "alt":"Slika iGora od napred i pozadi, crni telefon."
+        },
+        "klasa":"svetlo mini"
+    }
+]

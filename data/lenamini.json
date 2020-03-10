@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "divid" : "s3m1",
+        "naslov":"lEna za učenje",
+        "tekst1":"Tvoj asistent lEna će te podsetiti",
+        "tekst2":"da praviš redovne pauze od učenja.",
+        "a":{
+            "alink":"> Saznaj više",
+            "ahref":"#s4"
+        },
+        "slika":{
+            "src":"img/watch-cover-07.jpg",
+            "alt":"Slika crnog sata, sa belom pozadinom."
+        },
+        "klasa":"tamno mini"
+    },
+    {
+        "id": 2,
+        "divid" : "s3m2",
+        "naslov":"lEna za trčanje",
+        "tekst1":"Ovaj sat brine za tvoje zdravlje,",
+        "tekst2":"pa tako meri korake, distancu i pritisak.",
+        "a":{
+            "alink":"> Saznaj više",
+            "ahref":"#s4"
+        },
+        "slika":{
+            "src":"img/watch-cover-04.jpg",
+            "alt":"Slika plavog sata, sa crnom pozadinom."
+        },
+        "klasa":"tamno mini"
+    },
+    {
+        "id": 3,
+        "divid" : "s3m3",
+        "naslov":"lEna za klub",
+        "tekst1":"Kad izađeš u neki mrak klub,",
+        "tekst2":"lEna meri kol'ko si popio.",
+        "a":{
+            "alink":"> Saznaj više",
+            "ahref":"#s4"
+        },
+        "slika":{
+            "src":"img/watch-cover-05.jpg",
+            "alt":"Slika belog sata, sa crnom pozadinom."
+        },
+        "klasa":"svetlo mini"
+    },
+    {
+        "id": 4,
+        "divid" : "s3m4",
+        "naslov":"lEna za kevu",
+        "tekst1":"Jer lakše je kevi da pogleda u sat nego da",
+        "tekst2":"juri rAstka ili iGora dok sprema ručak.",
+        "a":{
+            "alink":"> Saznaj više",
+            "ahref":"#s4"
+        },
+        "slika":{
+            "src":"img/watch-cover-03.jpg",
+            "alt":"Slika crvenog sata, sa crnom pozadinom."
+        },
+        "klasa":"svetlo mini"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "ahref" : "http://www.facebook.com",
+        "target" : "_blank",
+        "klasa" : "fa fa-facebook"
+    },
+    {
+        "id" : 2,
+        "ahref" : "http://www.twitter.com",
+        "target" : "_blank",
+        "klasa" : "fa fa-twitter"
+    },
+    {
+        "id" : 3,
+        "ahref" : "http://www.instagram.com",
+        "target" : "_blank",
+        "klasa" : "fa fa-instagram"
+    },
+    {
+        "id" : 4,
+        "ahref" : "http://www.youtube.com",
+        "target" : "_blank",
+        "klasa" : "fa fa-youtube"
+    }
+]

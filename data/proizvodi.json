@@ -1,0 +1,770 @@
+[
+    {
+        "id":1,
+        "slikap":{
+            "ssrc":"img/macbook-prodaja-01.jpg",
+            "salt":"model za prodaju 1"
+        },
+        "karakteristike":{
+            "t1":"bOgdan Z DuhVa",
+            "t2":"Profi verzija",
+            "t3":"Intel® Core™ i5 Dual Core",
+            "t4":"19inč Retina IPS LED-backlit",
+            "t5":"8GB LPDDR3",
+            "t6":"512GB PCIe SSD"
+        },
+        "kategorija":"bogdan",
+        "tip":"laptop",
+        "cenastara":299999,
+        "cenanova":259999,
+        "dugme":"dugme1"
+    },
+    {
+        "id":2,
+        "slikap":{
+            "ssrc":"img/macbook-prodaja-02.jpg",
+            "salt":"model za prodaju 2"
+        },
+        "karakteristike":{
+            "t1":"bOgdan Z DuhVa",
+            "t2":"Skoro Profi verzija",
+            "t3":"Intel® Core™ i5 Dual Core ",
+            "t4":"17inč Retina IPS LED-backlit",
+            "t5":"8GB LPDDR3",
+            "t6":"512GB PCIe SSD"
+        },
+        "kategorija":"bogdan",
+        "tip":"laptop",
+        "cenastara":279999,
+        "cenanova":239999,
+        "dugme":"dugme2"
+    },
+    {
+        "id":3,
+        "slikap":{
+            "ssrc":"img/macbook-prodaja-03.jpg",
+            "salt":"model za prodaju 3"
+        },
+        "karakteristike":{
+            "t1":"bOgdan Z DuhVa",
+            "t2":"Jači Amater verzija",
+            "t3":"Intel® Core™ i5 Dual Core",
+            "t4":"15inč Retina IPS LED-backlit",
+            "t5":"8GB LPDDR3",
+            "t6":"256GB PCIe SSD"
+        },
+        "kategorija":"bogdan",
+        "tip":"laptop",
+        "cenastara":259999,
+        "cenanova":219999,
+        "dugme":"dugme3"
+    },
+    {
+        "id":4,
+        "slikap":{
+            "ssrc":"img/macbook-prodaja-04.jpg",
+            "salt":"model za prodaju 4"
+        },
+        "karakteristike":{
+            "t1":"bOgdan Z DuhVa",
+            "t2":"Amater verzija",
+            "t3":"Intel® Core™ i5 Dual Core",
+            "t4":"13inč Retina IPS LED-backlit",
+            "t5":"8GB LPDDR3",
+            "t6":"128GB PCIe SSD"
+        },
+        "kategorija":"bogdan",
+        "tip":"laptop",
+        "cenastara":239999,
+        "cenanova":199999,
+        "dugme":"dugme4"
+    },
+    {
+        "id":5,
+        "slikap":{
+            "ssrc":"img/mac-prodaja-01.jpg",
+            "salt":"model za prodaju 1"
+        },
+        "karakteristike":{
+            "t1":"bOgdan oPro",
+            "t2":"Veliki",
+            "t3":"Intel® Core™ i7 Dual Core",
+            "t4":"31inč Retina IPS LED-backlit",
+            "t5":"32GB LPDDR3",
+            "t6":"1TB PCIe SSD"
+        },
+        "kategorija":"bogdan",
+        "tip":"desktop",
+        "cenastara":499999,
+        "cenanova":459999,
+        "dugme":"dugme5"
+    },
+    {
+        "id":6,
+        "slikap":{
+            "ssrc":"img/mac-prodaja-02.jpg",
+            "salt":"model za prodaju 2"
+        },
+        "karakteristike":{
+            "t1":"bOgdan oPro",
+            "t2":"Srednji",
+            "t3":"Intel® Core™ i7 Dual Core",
+            "t4":"27inč Retina IPS LED-backlit",
+            "t5":"32GB LPDDR3",
+            "t6":"1TB PCIe SSD"
+        },
+        "kategorija":"bogdan",
+        "tip":"desktop",
+        "cenastara":479999,
+        "cenanova":439999,
+        "dugme":"dugme6"
+    },
+    {
+        "id":7,
+        "slikap":{
+            "ssrc":"img/mac-prodaja-03.jpg",
+            "salt":"model za prodaju 3"
+        },
+        "karakteristike":{
+            "t1":"bOgdan oPro",
+            "t2":"Mali",
+            "t3":"Intel® Core™ i7 Dual Core",
+            "t4":"27inč Retina IPS LED-backlit",
+            "t5":"16GB LPDDR3",
+            "t6":"512GB PCIe SSD"
+        },
+        "kategorija":"bogdan",
+        "tip":"desktop",
+        "cenastara":459999,
+        "cenanova":419999,
+        "dugme":"dugme7"
+    },
+    {
+        "id":8,
+        "slikap":{
+            "ssrc":"img/mac-prodaja-04.jpg",
+            "salt":"model za prodaju 4"
+        },
+        "karakteristike":{
+            "t1":"bOgdan oPro",
+            "t2":"Osnovni",
+            "t3":"Intel® Core™ i7 Dual Core",
+            "t4":"21inč Retina IPS LED-backlit",
+            "t5":"16GB LPDDR3",
+            "t6":"512GB PCIe SSD"
+        },
+        "kategorija":"bogdan",
+        "tip":"desktop",
+        "cenastara":439999,
+        "cenanova":399999,
+        "dugme":"dugme8"
+    },
+    {
+        "id":9,
+        "slikap":{
+            "ssrc":"img/ipad-prodaja-01.jpg",
+            "salt":"model za prodaju 1"
+        },
+        "karakteristike":{
+            "t1":"rAstko oPro",
+            "t2":"Profi verzija",
+            "t3":"12MP zadnja / 7MP prednja",
+            "t4":"12,9inč ekran",
+            "t5":"8GB LPDDR4",
+            "t6":"1TB memorije"
+        },
+        "kategorija":"rastko",
+        "tip":"androjid",
+        "cenastara":59999,
+        "cenanova":49999,
+        "dugme":"dugme1"
+    },
+    {
+        "id":10,
+        "slikap":{
+            "ssrc":"img/ipad-prodaja-02.jpg",
+            "salt":"model za prodaju 2"
+        },
+        "karakteristike":{
+            "t1":"rAstko Tanki",
+            "t2":"Skoro Profi verzija",
+            "t3":"12MP zadnja / 7MP prednja",
+            "t4":"11inč ekran",
+            "t5":"8GB LPDDR4",
+            "t6":"1TB memorije"
+        },
+        "kategorija":"rastko",
+        "tip":"androjid",
+        "cenastara":54999,
+        "cenanova":44999,
+        "dugme":"dugme2"
+    },
+    {
+        "id":11,
+        "slikap":{
+            "ssrc":"img/ipad-prodaja-03.jpg",
+            "salt":"model za prodaju 3"
+        },
+        "karakteristike":{
+            "t1":"rAstko oPro",
+            "t2":"Jači Amater verzija",
+            "t3":"10MP zadnja / 5MP prednja",
+            "t4":"12,9inč ekran",
+            "t5":"8GB LPDDR4",
+            "t6":"512GB memorije"
+        },
+        "kategorija":"rastko",
+        "tip":"androjid",
+        "cenastara":50999,
+        "cenanova":40999,
+        "dugme":"dugme3"
+    },
+    {
+        "id":12,
+        "slikap":{
+            "ssrc":"img/ipad-prodaja-04.jpg",
+            "salt":"model za prodaju 4"
+        },
+        "karakteristike":{
+            "t1":"rAstko Tanki",
+            "t2":"Amater verzija",
+            "t3":"10MP zadnja / 5MP prednja",
+            "t4":"11inč ekran",
+            "t5":"8GB LPDDR4",
+            "t6":"512GB memorije"
+        },
+        "kategorija":"rastko",
+        "tip":"androjid",
+        "cenastara":49999,
+        "cenanova":39999,
+        "dugme":"dugme4"
+    },
+    {
+        "id":13,
+        "slikap":{
+            "ssrc":"img/ipad-prodaja-05.jpg",
+            "salt":"model za prodaju 1"
+        },
+        "karakteristike":{
+            "t1":"rAstko oPro",
+            "t2":"Veliki",
+            "t3":"10MP zadnja / 5MP prednja",
+            "t4":"12,9inč ekran",
+            "t5":"6GB LPDDR4",
+            "t6":"256GB memorije"
+        },
+        "kategorija":"rastko",
+        "tip":"ijos",
+        "cenastara":44999,
+        "cenanova":34999,
+        "dugme":"dugme5"
+    },
+    {
+        "id":14,
+        "slikap":{
+            "ssrc":"img/ipad-prodaja-06.jpg",
+            "salt":"model za prodaju 2"
+        },
+        "karakteristike":{
+            "t1":"rAstko Tanki",
+            "t2":"Srednji",
+            "t3":"10MP zadnja / 5MP prednja",
+            "t4":"11inč ekran",
+            "t5":"6GB LPDDR4",
+            "t6":"256GB memorije"
+        },
+        "kategorija":"rastko",
+        "tip":"ijos",
+        "cenastara":40999,
+        "cenanova":30999,
+        "dugme":"dugme6"
+    },
+    {
+        "id":15,
+        "slikap":{
+            "ssrc":"img/ipad-prodaja-07.jpg",
+            "salt":"model za prodaju 1"
+        },
+        "karakteristike":{
+            "t1":"rAstko oPro",
+            "t2":"Mali",
+            "t3":"8MP zadnja / 2MP prednja",
+            "t4":"12,9inč ekran",
+            "t5":"4GB LPDDR4",
+            "t6":"128GB memorije"
+        },
+        "kategorija":"rastko",
+        "tip":"ijos",
+        "cenastara":39999,
+        "cenanova":29999,
+        "dugme":"dugme7"
+    },
+    {
+        "id":16,
+        "slikap":{
+            "ssrc":"img/ipad-prodaja-08.jpg",
+            "salt":"model za prodaju 2"
+        },
+        "karakteristike":{
+            "t1":"rAstko Tanki",
+            "t2":"Osnovni",
+            "t3":"8MP zadnja / 2MP prednja",
+            "t4":"11inč ekran",
+            "t5":"4GB LPDDR4",
+            "t6":"128GB memorije"
+        },
+        "kategorija":"rastko",
+        "tip":"ijos",
+        "cenastara":34999,
+        "cenanova":24999,
+        "dugme":"dugme8"
+    },
+    {
+        "id":17,
+        "slikap":{
+            "ssrc":"img/iphone-prodaja-01.jpg",
+            "salt":"model za prodaju 1"
+        },
+        "karakteristike":{
+            "t1":"iGor ĆukFon",
+            "t2":"Profi verzija",
+            "t3":"IPS LCD, 16M boja",
+            "t4":"48 MP zadnja, 20MP prednja",
+            "t5":"Li-Po 4000 mAh",
+            "t6":"512GB, 8/16GB RAM"
+        },
+        "kategorija":"igor",
+        "tip":"androjid",
+        "cenastara":199999,
+        "cenanova":169999,
+        "dugme":"dugme1"
+    },
+    {
+        "id":18,
+        "slikap":{
+            "ssrc":"img/iphone-prodaja-02.jpg",
+            "salt":"model za prodaju 2"
+        },
+        "karakteristike":{
+            "t1":"iGor ĆukFon",
+            "t2":"Skoro Profi verzija",
+            "t3":"IPS LCD, 16M boja",
+            "t4":"48 MP zadnja, 20MP prednja",
+            "t5":"Li-Po 4000 mAh",
+            "t6":"512GB, 6/8GB RAM"
+        },
+        "kategorija":"igor",
+        "tip":"androjid",
+        "cenastara":159999,
+        "cenanova":109999,
+        "dugme":"dugme2"
+    },
+    {
+        "id":19,
+        "slikap":{
+            "ssrc":"img/iphone-prodaja-03.jpg",
+            "salt":"model za prodaju 3"
+        },
+        "karakteristike":{
+            "t1":"iGor ĆukFon",
+            "t2":"Jači Amater verzija",
+            "t3":"IPS LCD, 16M boja",
+            "t4":"36 MP zadnja, 16MP prednja",
+            "t5":"Li-Po 4000 mAh",
+            "t6":"256GB, 8/16GB RAM"
+        },
+        "kategorija":"igor",
+        "tip":"androjid",
+        "cenastara":109999,
+        "cenanova":90999,
+        "dugme":"dugme3"
+    },
+    {
+        "id":20,
+        "slikap":{
+            "ssrc":"img/iphone-prodaja-04.jpg",
+            "salt":"model za prodaju 4"
+        },
+        "karakteristike":{
+            "t1":"iGor ĆukFon",
+            "t2":"Amater verzija",
+            "t3":"IPS LCD, 16M boja",
+            "t4":"36 MP zadnja, 16MP prednja",
+            "t5":"Li-Po 4000 mAh",
+            "t6":"256GB, 6/8GB RAM"
+        },
+        "kategorija":"igor",
+        "tip":"androjid",
+        "cenastara":90999,
+        "cenanova":80999,
+        "dugme":"dugme4"
+    },
+    {
+        "id":21,
+        "slikap":{
+            "ssrc":"img/iphone-prodaja-05.jpg",
+            "salt":"model za prodaju 5"
+        },
+        "karakteristike":{
+            "t1":"iGor ĆukMini",
+            "t2":"Veliki",
+            "t3":"IPS LCD, 16M boja",
+            "t4":"24 MP zadnja, 12MP prednja",
+            "t5":"Li-Po 3000 mAh",
+            "t6":"128GB, 6/8GB RAM"
+        },
+        "kategorija":"igor",
+        "tip":"ijos",
+        "cenastara":80999,
+        "cenanova":70999,
+        "dugme":"dugme5"
+    },
+    {
+        "id":22,
+        "slikap":{
+            "ssrc":"img/iphone-prodaja-06.jpg",
+            "salt":"model za prodaju 6"
+        },
+        "karakteristike":{
+            "t1":"iGor ĆukMini",
+            "t2":"Srednji",
+            "t3":"IPS LCD, 16M boja",
+            "t4":"24 MP zadnja, 12MP prednja",
+            "t5":"Li-Po 3000 mAh",
+            "t6":"128GB, 4/6GB RAM"
+        },
+        "kategorija":"igor",
+        "tip":"ijos",
+        "cenastara":70999,
+        "cenanova":60999,
+        "dugme":"dugme6"
+    },
+    {
+        "id":23,
+        "slikap":{
+            "ssrc":"img/iphone-prodaja-07.jpg",
+            "salt":"model za prodaju 7"
+        },
+        "karakteristike":{
+            "t1":"iGor ĆukMini",
+            "t2":"Mali",
+            "t3":"IPS LCD, 16M boja",
+            "t4":"18 MP zadnja, 10MP prednja",
+            "t5":"Li-Po 2000 mAh",
+            "t6":"64GB, 6/8GB RAM"
+        },
+        "kategorija":"igor",
+        "tip":"ijos",
+        "cenastara":60999,
+        "cenanova":50999,
+        "dugme":"dugme7"
+    },
+    {
+        "id":24,
+        "slikap":{
+            "ssrc":"img/iphone-prodaja-08.jpg",
+            "salt":"model za prodaju 8"
+        },
+        "karakteristike":{
+            "t1":"iGor ĆukMini",
+            "t2":"Osnovni",
+            "t3":"IPS LCD, 16M boja",
+            "t4":"18 MP zadnja, 10MP prednja",
+            "t5":"Li-Po 2000 mAh",
+            "t6":"64GB, 4/6GB RAM"
+        },
+        "kategorija":"igor",
+        "tip":"ijos",
+        "cenastara":50999,
+        "cenanova":40999,
+        "dugme":"dugme8"
+    },
+    {
+        "id":25,
+        "slikap":{
+            "ssrc":"img/watch-prodaja-01.jpg",
+            "salt":"model za prodaju 1"
+        },
+        "karakteristike":{
+            "t1":"lEna Kežual",
+            "t2":"Profi verzija",
+            "t3":"4000 mAh",
+            "t4":"koža, metal, plastika"
+        },
+        "kategorija":"lena",
+        "tip":"kezual",
+        "cenastara":29999,
+        "cenanova":27999,
+        "dugme":"dugme1"
+    },
+    {
+        "id":26,
+        "slikap":{
+            "ssrc":"img/watch-prodaja-02.jpg",
+            "salt":"model za prodaju 2"
+        },
+        "karakteristike":{
+            "t1":"lEna Kežual",
+            "t2":"Skoro Profi verzija",
+            "t3":"3500 mAh",
+            "t4":"koža, metal, plastika"
+        },
+        "kategorija":"lena",
+        "tip":"kezual",
+        "cenastara":27999,
+        "cenanova":25999,
+        "dugme":"dugme2"
+    },
+    {
+        "id":27,
+        "slikap":{
+            "ssrc":"img/watch-prodaja-03.jpg",
+            "salt":"model za prodaju 1"
+        },
+        "karakteristike":{
+            "t1":"lEna Kežual",
+            "t2":"Jači Amater verzija",
+            "t3":"3000 mAh",
+            "t4":"koža, metal, plastika"
+        },
+        "kategorija":"lena",
+        "tip":"kezual",
+        "cenastara":25999,
+        "cenanova":23999,
+        "dugme":"dugme3"
+    },
+    {
+        "id":28,
+        "slikap":{
+            "ssrc":"img/watch-prodaja-04.jpg",
+            "salt":"model za prodaju 2"
+        },
+        "karakteristike":{
+            "t1":"lEna Kežual",
+            "t2":"Amater verzija",
+            "t3":"2500 mAh",
+            "t4":"koža, metal, plastika"
+        },
+        "kategorija":"lena",
+        "tip":"kezual",
+        "cenastara":23999,
+        "cenanova":21999,
+        "dugme":"dugme4"
+    },
+    {
+        "id":29,
+        "slikap":{
+            "ssrc":"img/watch-prodaja-05.jpg",
+            "salt":"model za prodaju 1"
+        },
+        "karakteristike":{
+            "t1":"lEna Sport",
+            "t2":"Veliki",
+            "t3":"4000 mAh",
+            "t4":"koža, metal, plastika"
+        },
+        "kategorija":"lena",
+        "tip":"sport",
+        "cenastara":28999,
+        "cenanova":26999,
+        "dugme":"dugme5"
+    },
+    {
+        "id":30,
+        "slikap":{
+            "ssrc":"img/watch-prodaja-06.jpg",
+            "salt":"model za prodaju 2"
+        },
+        "karakteristike":{
+            "t1":"lEna Sport",
+            "t2":"Srednji",
+            "t3":"3500 mAh",
+            "t4":"koža, metal, plastika"
+        },
+        "kategorija":"lena",
+        "tip":"sport",
+        "cenastara":26999,
+        "cenanova":24999,
+        "dugme":"dugme6"
+    },
+    {
+        "id":31,
+        "slikap":{
+            "ssrc":"img/watch-prodaja-07.jpg",
+            "salt":"model za prodaju 1"
+        },
+        "karakteristike":{
+            "t1":"lEna Sport",
+            "t2":"Mali",
+            "t3":"3000 mAh",
+            "t4":"koža, metal, plastika"
+        },
+        "kategorija":"lena",
+        "tip":"sport",
+        "cenastara":24999,
+        "cenanova":22999,
+        "dugme":"dugme7"
+    },
+    {
+        "id":32,
+        "slikap":{
+            "ssrc":"img/watch-prodaja-08.jpg",
+            "salt":"model za prodaju 2"
+        },
+        "karakteristike":{
+            "t1":"lEna Sport",
+            "t2":"Osnovni",
+            "t3":"2500 mAh",
+            "t4":"koža, metal, plastika"
+        },
+        "kategorija":"lena",
+        "tip":"sport",
+        "cenastara":22999,
+        "cenanova":20999,
+        "dugme":"dugme8"
+    },
+    {
+        "id":33,
+        "slikap":{
+            "ssrc":"img/zez-prodaja-01.jpg",
+            "salt":"model za prodaju 1"
+        },
+        "karakteristike":{
+            "t1":"Široki 18mm",
+            "t2":"Objektiv",
+            "t3":"4k kvalitet snimka",
+            "t4":"12 meseci garancija"
+        },
+        "kategorija":"zez",
+        "tip":"it",
+        "cenastara":9999,
+        "cenanova":7999,
+        "dugme":"dugme1"
+    },
+    {
+        "id":34,
+        "slikap":{
+            "ssrc":"img/zez-prodaja-02.jpg",
+            "salt":"model za prodaju 2"
+        },
+        "karakteristike":{
+            "t1":"Žice bEz",
+            "t2":"Sluške",
+            "t3":"baterija 3000 mAh",
+            "t4":"blutut ima"
+        },
+        "kategorija":"zez",
+        "tip":"it",
+        "cenastara":15999,
+        "cenanova":13999,
+        "dugme":"dugme2"
+    },
+    {
+        "id":35,
+        "slikap":{
+            "ssrc":"img/zez-prodaja-03.jpg",
+            "salt":"model za prodaju 1"
+        },
+        "karakteristike":{
+            "t1":"Žicu ima",
+            "t2":"Sluške",
+            "t3":"3.5mm jack ili tip C",
+            "t4":"uz desnu, leva gratis"
+        },
+        "kategorija":"zez",
+        "tip":"it",
+        "cenastara":10999,
+        "cenanova":8999,
+        "dugme":"dugme3"
+    },
+    {
+        "id":36,
+        "slikap":{
+            "ssrc":"img/zez-prodaja-04.jpg",
+            "salt":"model za prodaju 2"
+        },
+        "karakteristike":{
+            "t1":"Domaća Ćukovača",
+            "t2":"Rakija",
+            "t3":"Domaća loza i šljiva",
+            "t4":"Po receptu Starog Ćuka"
+        },
+        "kategorija":"zez",
+        "tip":"ostalo",
+        "cenastara":999999,
+        "cenanova":999998,
+        "dugme":"dugme4"
+    },
+    {
+        "id":37,
+        "slikap":{
+            "ssrc":"img/zez-prodaja-05.jpg",
+            "salt":"model za prodaju 1"
+        },
+        "kategorija":"zez",
+        "tip":"ostalo",
+        "karakteristike":{
+            "t1":"Ćuk Kafa",
+            "t2":"Kafa",
+            "t3":"Kafeterija Ćuk",
+            "t4":"Najbolja kafa u gradu"
+        },
+        "cenastara":2599,
+        "cenanova":2199,
+        "dugme":"dugme5"
+    },
+    {
+        "id":38,
+        "slikap":{
+            "ssrc":"img/zez-prodaja-06.jpg",
+            "salt":"model za prodaju 2"
+        },
+        "karakteristike":{
+            "t1":"Sivi Soko",
+            "t2":"Dron",
+            "t3":"ovaj mali leti visoko",
+            "t4":"nije sova, al može i noću"
+        },
+        "kategorija":"zez",
+        "tip":"it",
+        "cenastara":500001,
+        "cenanova":485001,
+        "dugme":"dugme6"
+    },
+    {
+        "id":39,
+        "slikap":{
+            "ssrc":"img/zez-prodaja-07.jpg",
+            "salt":"model za prodaju 1"
+        },
+        "karakteristike":{
+            "t1":"mini miki",
+            "t2":"Kablić",
+            "t3":"najvažniji uređaj",
+            "t4":"nema u roze boji"
+        },
+        "kategorija":"zez",
+        "tip":"it",
+        "cenastara":999,
+        "cenanova":799,
+        "dugme":"dugme7"
+    },
+    {
+        "id":40,
+        "slikap":{
+            "ssrc":"img/zez-prodaja-08.jpg",
+            "salt":"model za prodaju 2"
+        },
+        "karakteristike":{
+            "t1":"njačPu",
+            "t2":"Punjač",
+            "t3":"može za iGora",
+            "t4":"može i za rAstka"
+        },
+        "kategorija":"zez",
+        "tip":"it",
+        "cenastara":4599,
+        "cenanova":3899,
+        "dugme":"dugme8"
+    }
+]

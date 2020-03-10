@@ -1,0 +1,70 @@
+[
+    {
+        "id": 1,
+        "divid" : "s3m1",
+        "naslov":"Sluške za uške",
+        "tekst1":"Kad se voziš u prevozu,",
+        "tekst2":"a uđe kontrola.",
+        "a":{
+            "alink":"> Saznaj više",
+            "atarget" : "_self",
+            "ahref":"#s4"
+        },
+        "slika":{
+            "src":"img/airpods-cover-01.jpg",
+            "alt":"Slika slušalica airpods."
+        },
+        "klasa":"svetlo mini"
+    },
+    {
+        "id": 2,
+        "divid" : "s3m2",
+        "naslov":"Ćuk Kafa",
+        "tekst1":"Jer nismo ludi da dan započnemo",
+        "tekst2":"bez najjače kafe u gradu.",
+        "a":{
+            "alink":"> Saznaj više",
+            "atarget" : "_blank",
+            "ahref":"https://kafeterijacuk.epizy.com/"
+        },
+        "slika":{
+            "src":"img/zez-cover-05.jpg",
+            "alt":"Slika kese kafe iz kafeterije Ćuk."
+        },
+        "klasa":"svetlo mini"
+    },
+    {
+        "id": 3,
+        "divid" : "s3m3",
+        "naslov":"kablić",
+        "tekst1":"Jer džaba tebi i bOgdan, i rAstko, i iGor",
+        "tekst2":"kad ne mogu ni jedan bez kablića...",
+        "a":{
+            "alink":"> Saznaj više",
+            "atarget" : "_self",
+            "ahref":"#s4"
+        },
+        "slika":{
+            "src":"img/zez-cover-03.jpg",
+            "alt":"Slika kablića usb tip c."
+        },
+        "klasa":"svetlo mini"
+    },
+    {
+        "id": 4,
+        "divid" : "s3m4",
+        "naslov":"Domaća Ćukovača",
+        "tekst1":"Rakija Starog Ćuka koji kaže kafom dan",
+        "tekst2":"započinješ, ali rakijom nastavljaš.",
+        "a":{
+            "alink":"> Saznaj više",
+            "atarget" : "_blank",
+            "ahref":"https://cukfrizerskisalon.epizy.com/"
+        },
+        "slika":{
+            "src":"img/zez-cover-04.jpg",
+            "alt":"Slika domaćeg proizvoda iz frizerskog salona Ćuk."
+        },
+        "klasa":"svetlo mini"
+    }
+]

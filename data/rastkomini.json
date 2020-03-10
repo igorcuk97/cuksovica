@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "divid" : "s3m1",
+        "naslov":"rAstko za kevu",
+        "tekst1":"Kad joj se gleda slagalica",
+        "tekst2":"ili igra sudoku.",
+        "a":{
+            "alink":"> Saznaj više",
+            "ahref":"#s4"
+        },
+        "slika":{
+            "src":"img/ipad-cover-03.jpg",
+            "alt":"Slika četiri tableta, dva okrenuta ka ekranu, dva kontra."
+        },
+        "klasa":"svetlo mini"
+    },
+    {
+        "id": 2,
+        "divid" : "s3m2",
+        "naslov":"rAstko uPutu",
+        "tekst1":"Kad ti se čita knjiga",
+        "tekst2":"a papir je skup.",
+        "a":{
+            "alink":"> Saznaj više",
+            "ahref":"#s4"
+        },
+        "slika":{
+            "src":"img/ipad-cover-04.jpg",
+            "alt":"Slika dva tableta, jedan okrenut ka ekranu, jedan kontra."
+        },
+        "klasa":"svetlo mini"
+    },
+    {
+        "id": 3,
+        "divid" : "s3m3",
+        "naslov":"rAstko +",
+        "tekst1":"Kad pišeš copy,",
+        "tekst2":"ali nemaš para za bOgdana.",
+        "a":{
+            "alink":"> Saznaj više",
+            "ahref":"#s4"
+        },
+        "slika":{
+            "src":"img/ipad-cover-05.jpg",
+            "alt":"Slika rAstko tableta, sa strane, zajedno sa tastaturom."
+        },
+        "klasa":"svetlo mini"
+    },
+    {
+        "id": 4,
+        "divid" : "s3m4",
+        "naslov":"rAstko dizajner",
+        "tekst1":"Kad si dizajner, pa crtaš",
+        "tekst2":"više nego što čitaš.",
+        "a":{
+            "alink":"> Saznaj više",
+            "ahref":"#s4"
+        },
+        "slika":{
+            "src":"img/ipad-cover-06.jpg",
+            "alt":"Slika rAstko tableta sa olovkom, odozgo sa strane."
+        },
+        "klasa":"svetlo mini"
+    }
+]

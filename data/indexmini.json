@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "divid" : "s3m1",
+        "naslov":"lEna sat",
+        "tekst1":"Jer ovakav sat nema niko.",
+        "tekst2":"A ako ima, laže vas.",
+        "a":{
+            "alink":"> Saznaj više",
+            "ahref":"lena.html"
+        },
+        "slika":{
+            "src":"img/watch-cover-01.jpg",
+            "alt":"Slika tri sata, razlicitih boja"
+        },
+        "klasa":"svetlo mini"
+    },
+    {
+        "id": 2,
+        "divid" : "s3m2",
+        "naslov":"jer rAstko je tatko",
+        "tekst1":"Nema brži. Nema bolji. Nema ljepši.",
+        "tekst2":"Nema niko ka' rAstko!",
+        "a":{
+            "alink":"> Saznaj više",
+            "ahref":"rastko.html"
+        },
+        "slika":{
+            "src":"img/tablet-cover-01.jpg",
+            "alt":"Slika dva tableta, razlicitih boja ekrana"
+        },
+        "klasa":"svetlo mini"
+    },
+    {
+        "id": 3,
+        "divid" : "s3m3",
+        "naslov":"zEzancije za sve",
+        "tekst1":"Od kablića za puntića",
+        "tekst2":"do sluške za uške.",
+        "a":{
+            "alink":"> Saznaj više",
+            "ahref":"zezancije.html"
+        },
+        "slika":{
+            "src":"img/airpods-cover-01.jpg",
+            "alt":"Slika slusalica sa kutijicom belih"
+        },
+        "klasa":"svetlo mini"
+    },
+    {
+        "id": 4,
+        "divid" : "s3m4",
+        "naslov":"iGor je u kraju",
+        "tekst1":"Telefon koji zna znanje.",
+        "tekst2":"Jer je naaći u kraju.",
+        "a":{
+            "alink":"> Saznaj više",
+            "ahref":"igor.html"
+        },
+        "slika":{
+            "src":"img/iphone-cover-02.jpg",
+            "alt":"Slika dva telefona, crna boja"
+        },
+        "klasa":"svetlo mini"
+    }
+]
